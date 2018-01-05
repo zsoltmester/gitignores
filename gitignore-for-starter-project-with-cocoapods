@@ -1,0 +1,9 @@
+/Build/
+/DerivedData/
+/Index/
+/*.xcworkspace/
+/Pods/
+
+xcuserdata/
+
+*.xcscmblueprint
