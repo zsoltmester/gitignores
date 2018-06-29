@@ -1,8 +1,0 @@
-/Build/
-/DerivedData/
-/Index/
-/Carthage/
-
-xcuserdata/
-
-*.xcscmblueprint
